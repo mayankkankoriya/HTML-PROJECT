@@ -1,5 +1,5 @@
 # RESORT_REPLICA
-This is project is build on html 
+This is project is build on html- 
 featrues are
 -book the rooms in resort 
 -check availability of rooms 
